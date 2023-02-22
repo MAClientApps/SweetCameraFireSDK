@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ezyzip.iml" filepath="$PROJECT_DIR$/.idea/modules/ezyzip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sweet_Camera.iml" filepath="$PROJECT_DIR$/.idea/modules/Sweet_Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sweet_Camera.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.iml" filepath="$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dlib/Sweet_Camera.dlib.unitTest.iml" />
     </modules>
   </component>
 </project>

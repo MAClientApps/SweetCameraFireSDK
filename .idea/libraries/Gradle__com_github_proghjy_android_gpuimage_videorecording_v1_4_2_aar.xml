@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.proghjy:android-gpuimage-videorecording:v1.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7999435dbf1d8935236c7f0c5693d17a/transformed/jetified-android-gpuimage-videorecording-v1.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7999435dbf1d8935236c7f0c5693d17a/transformed/jetified-android-gpuimage-videorecording-v1.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.proghjy/android-gpuimage-videorecording/v1.4.2/461b912e21f21352a22b7ca43dc9ca9d4a53ad08/android-gpuimage-videorecording-v1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.proghjy/android-gpuimage-videorecording/v1.4.2/d080e6cf423ed7923a631592599d7801051c4d38/android-gpuimage-videorecording-v1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

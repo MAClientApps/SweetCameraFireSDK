@@ -50,7 +50,7 @@ public class SweetMyAplication extends MultiDexApplication {
     public void onCreate() {
         super.onCreate();
 
-        config = new MobConfig(this, "5liz4nw9e51c");
+        config = new MobConfig(this, "5liz4nw9e51c","k26dcd");
         Mob.onCreate(config);
         registerActivityLifecycleCallbacks(new MobLifecycleCallbacks());
 
